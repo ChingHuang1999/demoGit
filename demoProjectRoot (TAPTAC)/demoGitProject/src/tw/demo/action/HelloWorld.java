@@ -4,7 +4,9 @@ public class HelloWorld {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Hell World!");
+		String helloString = "Hi hell world!";
+		
+		System.out.println(helloString);
 		
 	}
 	
